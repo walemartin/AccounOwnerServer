@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Contracts
 {
-    public interface IOwnerRepository : IRepositoryBase<Owner>
-    {
-    }
+    //public interface IOwnerRepository : IRepositoryBase<Owner>
+    //{
+    //}
 }
